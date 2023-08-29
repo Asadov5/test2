@@ -1,2 +1,3 @@
 yeni kod yaziram
 hello world
+write automatic
